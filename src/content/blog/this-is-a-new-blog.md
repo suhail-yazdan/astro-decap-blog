@@ -2,7 +2,7 @@
 title: This is a New Blog
 pubDate: 2025-08-07T16:20:00.000+05:30
 description: This blog is regarding AI
-heroImage: /images/uploads/6.jpg
+heroImage: https://media-cdn.tripadvisor.com/media/attractions-splice-spp-674x446/08/bb/cc/f0.jpg
 ---
 ### What is Artificial Intelligence and Why It Matters Today
 
