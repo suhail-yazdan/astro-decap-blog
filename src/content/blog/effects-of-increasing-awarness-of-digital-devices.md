@@ -1,6 +1,6 @@
 ---
 title: Effects of increasing awarness of digital devices
-pubDate: 2025-08-04T18:11:00.000+05:30
+pubDate: Jul 08 2025
 description: Effects of increasing awarness of digital devices
 heroImage: https://t3.ftcdn.net/jpg/03/89/98/68/240_F_389986897_IANPtLU6C0SzHtMtqEd0nTPW5vdl8HxH.jpg
 ---
